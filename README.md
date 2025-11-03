@@ -4,6 +4,9 @@
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@vinein10)
 
 
+![Pedro2110 GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro2110&show_icons=true&theme=synthwave)
+
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display:inline-block;"><br/>
